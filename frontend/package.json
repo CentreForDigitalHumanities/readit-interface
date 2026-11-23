@@ -23,7 +23,7 @@
         "bulma-tooltip": "^2.0.2",
         "handlebars": "^4.7.10",
         "handlebars-i18next": "^1.0.1",
-        "i18next": "^11.6.0",
+        "i18next": "^26.3.4",
         "i18next-browser-languagedetector": "^2.2.3",
         "jquery": "^3.5.1",
         "jquery-validation": "^1.20.0",
